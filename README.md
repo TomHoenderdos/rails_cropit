@@ -29,7 +29,7 @@ Include cropit stylesheet assets
 
 Add the following to your app/assets/javascripts/application.css:
 
-# require "cropit"
+require "cropit"
 
 or 
 
